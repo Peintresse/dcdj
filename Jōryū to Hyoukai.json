@@ -3,6 +3,17 @@
   "description": "NSFW",
   "artist": "Nihonashi",
   "author": "https://www.pixiv.net/en/users/3012410",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://i.imgur.com/APa0VxT.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1707653427",
+      "groups": {
+        "Huffly Parfait": [
+          ""
+        ]
+      }
+    }
+  }
 }
